@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-# mlops
-this is just a trial
-=======
-mlops 
->>>>>>> c71e769 (first commit)
+HELLO WELCOME TO TRIAL GIT AND GITHUB PUSH
